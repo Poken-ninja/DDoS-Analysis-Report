@@ -1,6 +1,6 @@
 # DDoS DNS Attack Analysis – Incident Response Worksheet
 
-This project is part of my cybersecurity learning journey. It covers the detailed analysis of a Distributed Denial of Service (DDoS) attack that targeted a DNS server. The worksheet follows the NIST Cybersecurity Framework functions:
+This is a portfolio project, a part of my cybersecurity learning journey. It covers the detailed analysis of a Distributed Denial of Service (DDoS) attack that targeted a DNS server. The worksheet follows the NIST Cybersecurity Framework functions:
 
 - Identify
 - Protect
